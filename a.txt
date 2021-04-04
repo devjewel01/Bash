@@ -1,0 +1,3 @@
+Hello everyone
+I am to try read file
+using bash code
