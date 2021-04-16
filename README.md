@@ -1,5 +1,7 @@
 # Bash Shell Scripting
 
+<img src="bash.jpeg" align="right" width="500px">
+
 ### Bash
 * Bash is a command language interpreter. It is widely available on various operating systems and is a default command interpreter on most GNU/Linux systems. The name is an acronym for the ‘Bourne-Again SHell’.
 
